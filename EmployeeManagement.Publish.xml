@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Ketan\Desktop\Viken\Published" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Published" publishMethod="FTP" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="08/01/2018 03:05:17" />
+    <file relUrl="Style/Bootstrap.css" publishTime="07/31/2018 23:17:14" />
+    <file relUrl="Style/Bootstrap.js" publishTime="07/31/2018 23:17:14" />
+    <file relUrl="Style/JQuery.js" publishTime="07/31/2018 23:17:14" />
+    <file relUrl="Index.aspx" publishTime="08/01/2018 03:04:11" />
+    <file relUrl="Style/jquery.dataTables.min.css" publishTime="08/01/2018 01:59:41" />
+    <file relUrl="DepartmentDetails.aspx" publishTime="08/01/2018 02:55:54" />
+    <file relUrl="bin/EmployeeManagement.pdb" publishTime="08/01/2018 03:02:24" />
+    <file relUrl="EmployeeDetails.aspx" publishTime="08/01/2018 02:57:33" />
+    <file relUrl="EmployeeList.aspx" publishTime="08/01/2018 03:04:15" />
+    <file relUrl="bin/EmployeeManagement.dll" publishTime="08/01/2018 03:02:24" />
+  </publishProfile>
+</publishData>
